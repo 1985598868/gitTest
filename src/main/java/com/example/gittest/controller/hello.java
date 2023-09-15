@@ -6,6 +6,6 @@ public class hello {
 
     @RequestMapping("/hello")
     public String helloword(){
-        return "hello";
+        return "hello1";
     }
 }
