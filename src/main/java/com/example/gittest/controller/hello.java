@@ -7,6 +7,7 @@ public class hello {
     @RequestMapping("/hello")
     public String helloword(){
         System.out.println("hell23o");
+        System.out.println("hel32lo");
         return "hello1";
     }
 }
